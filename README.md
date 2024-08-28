@@ -16,7 +16,7 @@
 <br/>
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph 贡献折线图-->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AntyRia&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats  waketime stats 统计语言使用时长-->
